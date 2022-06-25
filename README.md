@@ -1,3 +1,6 @@
+<head>
+  <title>Aseprite скачать</title>
+</head>
 <h1 align="center">Собранные версии Aseprite из исходного кода</h1>
 <h1>Aseprite-v1.2.35:</h1>
 <h2>Для Windows:</h2>
