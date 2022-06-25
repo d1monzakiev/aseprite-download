@@ -9,6 +9,6 @@
 <h1>Aseprite v1.3-beta16:</h1>
 <h2>Для Windows:</h2>
 <h3>64-bit - <a href="https://www.dropbox.com/s/js7tn59swz7zpqg/Aseprite%20v1.3-beta16_x64.zip?raw=1">скачать</a>
-<h3>32-bit - скоро</h3>  
+<h3>32-bit - <a href="https://www.dropbox.com/s/v94wc6cvwysw7ff/Aseprite%20v1.3-beta16_x86.zip?raw=1">скачать</a>
 <h2>Для Linux:</h2>
 <h3>64-bit - скоро</h3>
